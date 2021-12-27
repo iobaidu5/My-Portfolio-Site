@@ -468,7 +468,7 @@
         <div class="right-side  opacity-reveal ">
           <h2 class="subsection-header text-reveal-trigger" style="font-size: .9rem;">Fill The Form And I Will Get In
             Touch With You As Soon As Possible</h2>
-          <form action="" data-netlify="true" target="_blank" method="POST">
+          <form action="POST" data-netlify="true" method="POST">
             <div clss="form-container">
               <div class="contact-left">
                 <input type="name" name="name" placeholder="Your Name" required />
@@ -476,6 +476,9 @@
               </div>
               <div class="contact-right">
                 <textarea name="message" name="message" placeholder="Your Message" id="" cols="7" rows="6"></textarea>
+              </div>
+              <div class="contact-right">
+                <div data-netlify-recaptcha="true"></div>
               </div>
             </div>
             <input id="submit_btn" type="submit" value="Send">

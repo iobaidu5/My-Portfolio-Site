@@ -1,20 +1,5 @@
 
 window.addEventListener("load", () => {
-  ////////////Upadate Animation Text State////////
-  // if (!window.origin.includes("localhost") || !window.origin.includes("http://127.0.0.1")) {
-  // send an email to me everytime the page is loaded
-  const formData = new FormData();
-  console.log("Sending email", window.origin);
-  formData.append("url", window.location.href);
-  formData.append("name", "Notifier Bot")
-  formData.append("email", "i.obaidu5@gmail.com")
-  formData.append("message", "Your portfolio was visited")
-  fetch("https://formspree.io/xzbjaaqy", {
-    method: "POST",
-    body: formData,
-  }).then(response => response.json())
-    .then(data => console.log(data))
-  // }
 
 
   window.setTimeout(() => {
