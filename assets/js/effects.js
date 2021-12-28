@@ -85,7 +85,7 @@ move(14.5, 18, 0, 0, 0, 1);
 scene.set({
   "[data-typing='i']": Scene.typing({ text: "I ", duration: 1 }),
   "[data-typing='name']": {
-    1: Scene.typing({ text: "'m Obaid Ullah, ", duration: 1 }),
+    1: Scene.typing({ text: "'m Obaid, ", duration: 1 }),
   },
   "[data-typing='engineer']": {
     1.5: Scene.typing({ text: "A Full-Stack Developer", duration: 1 }),
