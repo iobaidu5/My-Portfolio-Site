@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.eb2f78ff.js",
+    "main.js": "/static/js/main.83c4f10d.js",
     "static/media/pic.jpg": "/static/media/pic.f12933fdb8b8c008515d.jpg",
     "static/media/Obaid-Resume.pdf": "/static/media/Obaid-Resume.2add915c9faace54c9dd.pdf",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
@@ -24,9 +24,9 @@
     "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
-    "main.eb2f78ff.js.map": "/static/js/main.eb2f78ff.js.map"
+    "main.83c4f10d.js.map": "/static/js/main.83c4f10d.js.map"
   },
   "entrypoints": [
-    "static/js/main.eb2f78ff.js"
+    "static/js/main.83c4f10d.js"
   ]
 }
